@@ -7,8 +7,9 @@ Different LSTM Models for Time Series Forecasting
     - Bidirectional LSTM
     - CNN LSTM
     - ConvLSTM
+  
 2. Multivariate LSTM Models
-  - Multiple Input Series
-  - Multiple Parallel Series
+   - Multiple Input Series
+   - Multiple Parallel Series
       
      
